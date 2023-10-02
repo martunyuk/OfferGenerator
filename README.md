@@ -5,7 +5,8 @@
 
 <h2>Короткий туторіал</h2>
 <p>Це код, який вам потрібно міняти :</p>
-<img src="https://github.com/martunyuk/OfferGenerator/assets/87355458/b0f02f87-cfb2-4e2c-9c03-355e353d1cc7">
+
+<img src="https://github.com/martunyuk/OfferGenerator/assets/87355458/3cfef459-d9c3-461e-8c59-d71653ff21ec">
 <p>1. Додайте в список apps назви ваших додатків.</p>
 <p>2. Пропишіть тип сервера (server_type), який вам потрібен</p>
 <p>3. Пропишіть параметри, які вам потрібні в списку parameters</p>
