@@ -28,7 +28,7 @@ for app_name in apps:
     result += "файл = " + create_random_word() +".php" + "\n"
     for parameter in parameters:
         result += parameter + " = " + create_random_word() + "\n"
-        if parameter == parameters[len(parameters)-1]:
+        if parameter == parameters[-1] and app_name != apps[-1]:
             result += "\n"
 
 print(result)
