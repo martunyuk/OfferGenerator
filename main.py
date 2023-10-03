@@ -20,7 +20,7 @@ def create_random_word():
 
         if l == random_number_position:
             word += str(random.randint(0,10))
-    return word
+    return "`"+word+"`"
 
 for app_name in apps:
     result += "назва додатку = " + app_name + "\n"
